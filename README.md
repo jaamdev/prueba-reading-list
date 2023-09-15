@@ -2,7 +2,7 @@
 
 Esta es la primera prueba tecnica que consiste en una lista de lectura en la que el usuario puede guardar en una lista los libros que seleccione de los libros disponibles.
 
-| [Ir al despliegue](https://github.com/jaamdev/prueba-reading-list) | [Ir a la web de los retos](https://pruebastecnicas.com) | [Ir al repositorio de los retos](https://github.com/midudev/pruebas-tecnicas/tree/main/pruebas/01-reading-list) |
+| [Ir al despliegue](https://jaamdev.github.io/prueba-reading-list/) | [Ir a la web de los retos](https://pruebastecnicas.com) | [Ir al repositorio de los retos](https://github.com/midudev/pruebas-tecnicas/tree/main/pruebas/01-reading-list) |
 | :-: | :-: | :-: |
 
 ## Scripts
