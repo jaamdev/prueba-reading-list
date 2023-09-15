@@ -1,0 +1,318 @@
+{
+	"library": [
+		{
+			"book": {
+				"title": "Aprendiendo Git",
+				"pages": 348,
+				"genre": "Programación",
+				"cover": "https://d2sofvawe08yqg.cloudfront.net/aprendiendo-git/s_hero?1628527844",
+				"synopsis": "¡Con este libro vas a entender de una vez por todas todo lo que es Git y cómo sacarle provecho!",
+				"year": 2022,
+				"ISBN": "978-0618640180",
+				"author": {
+					"name": "Miguel Ángel Durán García",
+					"otherBooks": []
+				}
+			}
+		},
+		{
+			"book": {
+				"title": "Descubre Svelte",
+				"pages": 97,
+				"genre": "Programación",
+				"cover": "https://d2sofvawe08yqg.cloudfront.net/descubre-svelte/s_hero?1620662495",
+				"synopsis": "Svelte es un soplo de aire fresco en el mundo del Desarrollo Web, dominado por React y Vue. Apuesta por evitar que escribas código repetitivo e inútil. Su sencillez hará que vuelvas a amar la Programación Web.",
+				"year": 2022,
+				"ISBN": "978-0618640181",
+				"author": {
+					"name": "Miguel Ángel Durán García",
+					"otherBooks": []
+				}
+			}
+		},
+		{
+			"book": {
+				"title": "Aprendiendo React",
+				"pages": 286,
+				"genre": "Programación",
+				"cover": "https://m.media-amazon.com/images/I/417WHFwnPBL.jpg",
+				"synopsis": "¿Eres un desarrollador con conocimientos en JavaScript que busca adentrarse en el mundo de React.js? Aprendiendo React es tu guía esencial y completa para empezar y dominar esta popular biblioteca JavaScript. En este libro, explorarás todos los aspectos de React, desde sus fundamentos hasta las técnicas avanzadas, a través de una serie de conceptos intermedios vitales. Comenzando con una introducción a React, este libro te guiará a través de la configuración del entorno de desarrollo, la creación de proyectos, la comprensión de los componentes, el manejo de eventos y el ciclo de vida de los componentes. En secciones posteriores, abordarás temas más complejos como la gestión del estado global, el enrutamiento, los estilos, el consumo de APIs y la optimización del rendimiento. Además, aprenderás a garantizar la calidad de tu código con pruebas y cómo preparar y desplegar tus aplicaciones para un entorno de producción. El libro también incluye discusiones sobre SEO y rendimiento de las aplicaciones de React en producción.",
+				"year": 2023,
+				"ISBN": "979-8852737427",
+				"author": {
+					"name": "Carlos Azaustre",
+					"otherBooks": ["Aprendiendo JavaScript"]
+				}
+			}
+		},
+		{
+			"book": {
+				"title": "Hispanos",
+				"pages": 224,
+				"genre": "Historia",
+				"cover": "https://imagessl3.casadellibro.com/a/l/s7/63/9788413845463.webp",
+				"synopsis": "Este libro no es una historia de España o de Portugal, de Mexico, Brasil, Chile, Colombia o Argentina. Esta es una historia sobre el viaje cultural que los hispanos han realizado a lo largo de más de dos mil años, desde la epoca romana hasta nuestros días.",
+				"year": 2023,
+				"ISBN": "978-8413845463",
+				"author": {
+					"name": "Fernando Díaz Villanueva",
+					"otherBooks": []
+				}
+			}
+		},
+		{
+			"book": {
+				"title": "La Contra Historia de España",
+				"pages": 304,
+				"genre": "Historia",
+				"cover": "https://imagessl3.casadellibro.com/a/l/s7/53/9788413841953.webp",
+				"synopsis": "Desde la Edad Media, las generaciones que nos precedieron expulsaron a un invasor de la península ibérica, forjaron un reino muy poderoso, cruzaron los océanos y se extendieron por todo el mundo llevando consigo su lengua, su religión y su manera de entender el mundo.",
+				"year": 2021,
+				"ISBN": "978-8413841953",
+				"author": {
+					"name": "Fernando Díaz Villanueva",
+					"otherBooks": []
+				}
+			}
+		},
+		{
+			"book": {
+				"title": "La Contra Historia del Comunismo",
+				"pages": 228,
+				"genre": "Historia",
+				"cover": "https://imagessl1.casadellibro.com/a/l/s7/81/9788413843681.webp",
+				"synopsis": "La historia del comunismo transcurre entre la revolución y la utopía, entre la violencia y lo criminal. A lo largo de los tiempos, en cualquier lugar donde se haya impuesto o haya tratado de imponerse un regimen de estas características, se han cometido multitud de crímenes, algunos especialmente aberrantes como los de las tiranías de Stalin, Mao o Pol Pot. El ideal comunista, que sobre el papel es inocuo, se convierte siempre en la práctica en una pesadilla. Desde la primera revolución típicamente socialista —la bolchevique— hasta su epígono más reciente —la Venezuela bolivariana—, la praxis revolucionaria se ha cobrado la vida de millones de personas en todo el mundo y en menos de un siglo.",
+				"year": 2022,
+				"ISBN": "978-8413843681",
+				"author": {
+					"name": "Fernando Díaz Villanueva",
+					"otherBooks": []
+				}
+			}
+		},
+		{
+			"book": {
+				"title": "El Camino de los Reyes",
+				"pages": 1200,
+				"genre": "Fantasía",
+				"cover": "https://imagessl1.casadellibro.com/a/l/s7/41/9788413143941.webp",
+				"synopsis": "Anhelo los días previos a la Última Desolación. Los días en que los Heraldos nos abandonaron y los Caballeros Radiantes  se giraron en nuestra contra. Un tiempo en que aún había magia en el mundo y honor en el corazón de los hombres. El mundo fue nuestro, pero lo perdimos. Probablemente no hay nada más  estimulante para las almas de los hombres que la victoria. ¿O tal vez fue la victoria una ilusión durante todo ese tiempo?  ¿Comprendieron nuestros enemigos que cuanto más duramente luchaban,  más  resistíamos nosotros? Quizá vieron que el fuego y el martillo tan solo  producían mejores espadas. Pero ignoraron el acero durante el tiempo suficiente para oxidarse. Hay cuatro personas a las que observamos. La primera es el médico, quien  dejó de curar para convertirse en soldado durante la guerra más brutal  de nuestro tiempo. La segunda es el asesino, un homicida que llora  siempre que mata. La tercera es la mentirosa, una joven que viste un  manto de erudita sobre un corazón de ladrona. Por último está el alto  príncipe, un guerrero que mira al pasado mientras languidece su sed de guerra. El mundo puede cambiar. La potenciación y el uso de las esquirlas pueden  aparecer de nuevo, la magia de los días pasados puede volver a ser nuestra. Esas cuatro personas son la clave. Una de ellas nos redimirá. Y una de ellas nos destruirá.",
+				"year": 2022,
+				"ISBN": "978-8413143941",
+				"author": {
+					"name": "Brandon Sanderson",
+					"otherBooks": []
+				}
+			}
+		},
+		{
+			"book": {
+				"title": "El Señor de los Anillos",
+				"pages": 1200,
+				"genre": "Fantasía",
+				"cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566425108i/33.jpg",
+				"synopsis": "Una aventura épica en un mundo de fantasía llamado la Tierra Media.",
+				"year": 1954,
+				"ISBN": "978-0618640157",
+				"author": {
+					"name": "J.R.R. Tolkien",
+					"otherBooks": ["El Hobbit", "El Silmarillion"]
+				}
+			}
+		},
+		{
+			"book": {
+				"title": "Juego de Tronos",
+				"pages": 694,
+				"genre": "Fantasía",
+				"cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1273763400i/8189620.jpg",
+				"synopsis": "En un reino donde las estaciones duran años, una batalla épica por el trono se desarrolla.",
+				"year": 1996,
+				"ISBN": "978-0553103540",
+				"author": {
+					"name": "George R. R. Martin",
+					"otherBooks": [
+						"Choque de Reyes",
+						"Tormenta de Espadas",
+						"Festín de Cuervos"
+					]
+				}
+			}
+		},
+		{
+			"book": {
+				"title": "Harry Potter y la piedra filosofal",
+				"pages": 223,
+				"genre": "Fantasía",
+				"cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1550337333i/15868.jpg",
+				"synopsis": "Un niño descubre que es un mago y comienza una aventura en una escuela de magia.",
+				"year": 1997,
+				"ISBN": "978-0747532699",
+				"author": {
+					"name": "J.K. Rowling",
+					"otherBooks": [
+						"Harry Potter y la cámara secreta",
+						"Harry Potter y el prisionero de Azkaban",
+						"Harry Potter y el cáliz de fuego"
+					]
+				}
+			}
+		},
+		{
+			"book": {
+				"title": "1984",
+				"pages": 328,
+				"genre": "Ciencia ficción",
+				"cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657781256i/61439040.jpg",
+				"synopsis": "Una inquietante visión de un futuro distópico y totalitario.",
+				"year": 1949,
+				"ISBN": "978-0451524935",
+				"author": {
+					"name": "George Orwell",
+					"otherBooks": ["Rebelión en la granja"]
+				}
+			}
+		},
+		{
+			"book": {
+				"title": "Apocalipsis Zombie",
+				"pages": 444,
+				"genre": "Zombies",
+				"cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1422626176i/24762432.jpg",
+				"synopsis": "Un gallego se queda en casa en pleno apocalipsis zombie y acaba casi salvando el mundo",
+				"year": 2001,
+				"ISBN": "978-4444532611",
+				"author": {
+					"name": "Manel Loreiro",
+					"otherBooks": []
+				}
+			}
+		},
+		{
+			"book": {
+				"title": "Dune",
+				"pages": 412,
+				"genre": "Ciencia ficción",
+				"cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1555447414i/44767458.jpg",
+				"synopsis": "En el inhóspito planeta desértico de Arrakis, una gran intriga política y familiar se desarrolla.",
+				"year": 1965,
+				"ISBN": "978-0441172719",
+				"author": {
+					"name": "Frank Herbert",
+					"otherBooks": ["El mesías de Dune", "Hijos de Dune"]
+				}
+			}
+		},
+		{
+			"book": {
+				"title": "La Guía del Autoestopista Galáctico",
+				"pages": 216,
+				"genre": "Ciencia ficción",
+				"cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1653311117i/6691227.jpg",
+				"synopsis": "Un viaje absurdo y cómico por el espacio, con toallas.",
+				"year": 1979,
+				"ISBN": "978-0345391803",
+				"author": {
+					"name": "Douglas Adams",
+					"otherBooks": [
+						"El restaurante del fin del mundo",
+						"La vida, el universo y todo lo demás"
+					]
+				}
+			}
+		},
+		{
+			"book": {
+				"title": "Neuromante",
+				"pages": 271,
+				"genre": "Ciencia ficción",
+				"cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1554437249i/6088007.jpg",
+				"synopsis": "Una visión profética de la ciber-realidad y la inteligencia artificial.",
+				"year": 1984,
+				"ISBN": "978-0441569595",
+				"author": {
+					"name": "William Gibson",
+					"otherBooks": ["Conde Cero", "Mona Lisa Acelerada"]
+				}
+			}
+		},
+		{
+			"book": {
+				"title": "Fahrenheit 451",
+				"pages": 249,
+				"genre": "Ciencia ficción",
+				"cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1383718290i/13079982.jpg",
+				"synopsis": "Una sociedad futura donde los libros están prohibidos y 'bomberos' queman cualquier libro que encuentren.",
+				"year": 1953,
+				"ISBN": "978-1451673319",
+				"author": {
+					"name": "Ray Bradbury",
+					"otherBooks": ["Crónicas marcianas", "El hombre ilustrado"]
+				}
+			}
+		},
+		{
+			"book": {
+				"title": "El resplandor",
+				"pages": 688,
+				"genre": "Terror",
+				"cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1641398308i/60038757.jpg",
+				"synopsis": "Una familia se muda a un hotel aislado para el invierno donde una presencia siniestra influye en el padre hacia la violencia.",
+				"year": 1977,
+				"ISBN": "978-0307743657",
+				"author": {
+					"name": "Stephen King",
+					"otherBooks": ["Carrie", "It"]
+				}
+			}
+		},
+		{
+			"book": {
+				"title": "Drácula",
+				"pages": 418,
+				"genre": "Terror",
+				"cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387151694i/17245.jpg",
+				"synopsis": "La historia del infame conde Drácula y su intento de mudarse de Transilvania a Inglaterra.",
+				"year": 1897,
+				"ISBN": "978-0486411095",
+				"author": {
+					"name": "Bram Stoker",
+					"otherBooks": [
+						"La joya de las siete estrellas",
+						"La madriguera del gusano blanco"
+					]
+				}
+			}
+		},
+		{
+			"book": {
+				"title": "Frankenstein",
+				"pages": 280,
+				"genre": "Terror",
+				"cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1669159060i/63631742.jpg",
+				"synopsis": "Un científico obsesionado crea una criatura viva a partir de partes de cuerpos robadas, con consecuencias desastrosas.",
+				"year": 1818,
+				"ISBN": "978-0486282114",
+				"author": {
+					"name": "Mary Shelley",
+					"otherBooks": ["El último hombre", "Valperga"]
+				}
+			}
+		},
+		{
+			"book": {
+				"title": "La llamada de Cthulhu",
+				"pages": 43,
+				"genre": "Terror",
+				"cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1485924654i/34094154.jpg",
+				"synopsis": "La historia de un monstruo ancestral que amenaza con revivir y dominar el mundo.",
+				"year": 1928,
+				"ISBN": "978-1542461690",
+				"author": {
+					"name": "H.P. Lovecraft",
+					"otherBooks": ["El horror de Dunwich", "En las montañas de la locura"]
+				}
+			}
+		}
+	]
+}
